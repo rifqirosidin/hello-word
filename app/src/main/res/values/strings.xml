@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Just Order</string>
+    <string name="jumlah_pesanan">Order Quantity</string>
+    <string name="pesan">Order</string>
+    <string name="nilai">0</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="makanan">Delicius Food</string>
+    <string name="pedas">Pedas</string>
+</resources>

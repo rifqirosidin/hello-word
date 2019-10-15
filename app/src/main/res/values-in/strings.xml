@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pesan Aja</string>
+    <string name="jumlah_pesanan">Jumlah Pesanan</string>
+    <string name="pesan">Pesan</string>
+    <string name="nilai">0</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="makanan">makanan</string>
+    <string name="pedas">Pedas</string>
+</resources>
